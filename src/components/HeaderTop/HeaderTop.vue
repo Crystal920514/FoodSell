@@ -8,7 +8,6 @@
   </header>
 
 </template>
-
 <script>
   export default {
     props: {
